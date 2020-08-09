@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\proto-microfrontend-child-cat"
+		},
+		{
+			"path": "..\\proto-microfrontend-child-dog"
+		}
+	],
+	"settings": {}
+}
